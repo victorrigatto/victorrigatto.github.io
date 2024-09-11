@@ -2,10 +2,11 @@
 
 body {
     font-family: "Merriweather", sans-serif;
+    color: #3f4550;
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: #d6ebf5;
+    background-color: #d0e9f2;
 }
 .container {
     margin: 0 auto;
@@ -29,18 +30,18 @@ h1 {
     content: "";
     display: block;
     height: 1px;
-    background-color: lightgrey;
+    background-color: #b2babb;
     width: 50%;
     margin: 10px auto; /* Centering and spacing above and below the menu */
 }
 .menu a {
     text-decoration: none; /* Removes underline */
-    color: black;
+    color: #3f4550;
     margin: 0 15px;
     font-size: 1em;
 }
 .menu a:hover {
-    color: lightblue;
+    color: #0477bf;
 }
 .main-title {
     margin-top: 40px;
@@ -70,17 +71,17 @@ img {
     content: "";
     display: block;
     height: 1px;
-    background-color: lightgrey;
+    background-color: #b2babb;
     width: 30%;
     margin: 10px auto; /* Centering and spacing above and below each post */
 }
 .blog-post a {
     text-decoration: none; /* Removes underline */
-    color: black;
+    color: #3f4550;
     font-size: 1.2em;
 }
 .blog-post a:hover {
-    color: lightblue;
+    color: #0477bf;
 }
 .date {
     display: block;
@@ -89,13 +90,13 @@ img {
     font-size: 0.9em;
 }
 .yellow-symbol {
-    color: #ffac33;
+    color: #d9b607;
 }
 .special-link {
     text-decoration: none;
-    color: black;
+    color: #3f4550;
     font-style: italic;
 }
 .special-link:hover {
-    color: lightblue;
+    color: #0477bf;
 }
